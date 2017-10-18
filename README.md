@@ -3,7 +3,7 @@
 This repository contains files used in the creation of the REMember project.  
 This project was started as the final project for our CS 445 course.  
 
-Authors:
+Authors:  
 Axel Hranov  
 Josh Hickman  
 Madison Blake  
