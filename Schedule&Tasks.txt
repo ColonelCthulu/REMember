@@ -1,1 +1,10 @@
-Put tasks and such here
+Tasks to be completed before presentation:
+
+-Get Base Docker and setup working (Run basic code to ensure it works)
+-Read and understand base code to ensure we know what part does what.
+-Add command line arguments for things such as input file/directory, mode, parameters, etc.
+-Create nice clean "main" function so that we can use these parameters and flags to have the program do various things based on the arguments.
+-Set up program to spit out individual frames of processed images.
+-Create function that will merge these individual frames into a .gif
+-Add source images and .gifs to source file (Axel will do this)
+-Create function to take a .gif or video file and extract frames which will then be put into specified folder
